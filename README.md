@@ -4,6 +4,6 @@
 
 2. The table schemas are defined in sqls.sql  
 
-3. models.py describes the models  
+3. models_1.py describes the models  
 
 4. App has features like login, friend and friend request system, logs, creating groups, creating bills in groups, autocomplete search, comments etc.
