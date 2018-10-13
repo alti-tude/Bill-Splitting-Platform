@@ -1,4 +1,4 @@
-#Group Expense Manager
+# Group Expense Manager
 1. To run the app, use the following command:  
    $python main.py
 
